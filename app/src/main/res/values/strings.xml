@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MealBasket</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="order_address">Order Address</string>
+    <string name="adress_name">Adress Name</string>
+    <string name="order_adress">Order Adress</string>
+    <string name="credit_cart_info">Credit Cart Info</string>
+    <string name="card_owner">Card Owner</string>
+    <string name="card_number">Card Number</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="cvv">CVV</string>
+    <string name="confirm_payment">Confirm Payment</string>
+    <string name="your_order_has_been_accepted">Your order has been accepted !</string>
+    <string name="your_items_has_been_placed_and_is_on_it_s_way_to_being_processed">Your items has been placed and is on it\'s way to being processed</string>
+    <string name="continue_shopping">Continue Shopping</string>
+</resources>
